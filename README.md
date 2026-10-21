@@ -9,6 +9,7 @@ Tema: integração de resultados de torneios de ténis.
 Ferramentas: Pentaho Data Integration (Spoon) 10.2 e PostgreSQL 17.  
 Base de dados: `tenis_tp1`, no servidor local, porta 5432, utilizador `postgres`.
 
+Repositório: https://github.com/TelmoSilva20456/tp01-A20456  
 Vídeo da demonstração: https://drive.google.com/file/d/11P3w5oj8wkNbekdjGI4sQjn4z8YICFPO/view
 
 ## Ficheiros
