@@ -1,0 +1,49 @@
+{
+  "torneios": [
+    {
+      "torneio_id": "AO2024",
+      "torneio_nome": "Australian Open",
+      "superficie": "Hard",
+      "nivel": "Grand Slam",
+      "cidade": "Melbourne",
+      "pais_torneio": "Australia",
+      "data_inicio": "2024-01-14"
+    },
+    {
+      "torneio_id": "ES2024",
+      "torneio_nome": "Millennium Estoril Open",
+      "superficie": "Clay",
+      "nivel": "ATP 250",
+      "cidade": "Cascais",
+      "pais_torneio": "Portugal",
+      "data_inicio": "2024-04-01"
+    },
+    {
+      "torneio_id": "RG2024",
+      "torneio_nome": "Roland Garros",
+      "superficie": "Clay",
+      "nivel": "Grand Slam",
+      "cidade": "Paris",
+      "pais_torneio": "France",
+      "data_inicio": "2024-05-26"
+    },
+    {
+      "torneio_id": "WI2024",
+      "torneio_nome": "Wimbledon",
+      "superficie": "Grass",
+      "nivel": "Grand Slam",
+      "cidade": "London",
+      "pais_torneio": "United Kingdom",
+      "data_inicio": "2024-07-01"
+    },
+    {
+      "torneio_id": "UO2024",
+      "torneio_nome": "US Open",
+      "superficie": "Hard",
+      "nivel": "Grand Slam",
+      "cidade": "New York",
+      "pais_torneio": "USA",
+      "data_inicio": "2024-08-26"
+    }
+  ]
+}

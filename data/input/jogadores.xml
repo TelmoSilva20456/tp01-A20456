@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jogadores>
+  <jogador><id>1</id><nome>Jannik Sinner</nome><pais>ITA</pais><mao>R</mao></jogador>
+  <jogador><id>2</id><nome>Carlos Alcaraz</nome><pais>ESP</pais><mao>R</mao></jogador>
+  <jogador><id>3</id><nome>Novak Djokovic</nome><pais>SRB</pais><mao>R</mao></jogador>
+  <jogador><id>4</id><nome>Daniil Medvedev</nome><pais>RUS</pais><mao>R</mao></jogador>
+  <jogador><id>5</id><nome>Alexander Zverev</nome><pais>GER</pais><mao>R</mao></jogador>
+  <jogador><id>6</id><nome>Taylor Fritz</nome><pais>USA</pais><mao>R</mao></jogador>
+  <jogador><id>7</id><nome>  Nuno   Borges</nome><pais>POR</pais><mao>R</mao></jogador>
+  <jogador><id>8</id><nome>Joao Sousa</nome><pais>POR</pais><mao>R</mao></jogador>
+  <jogador><id>9</id><nome>Andrey Rublev</nome><pais>RUS</pais><mao>R</mao></jogador>
+  <jogador><id>10</id><nome>Casper Ruud</nome><pais>NOR</pais><mao>R</mao></jogador>
+  <jogador><id>11</id><nome>Grigor Dimitrov</nome><pais>BUL</pais><mao>R</mao></jogador>
+  <jogador><id>12</id><nome>Tommy Paul</nome><pais>USA</pais><mao>R</mao></jogador>
+</jogadores>
