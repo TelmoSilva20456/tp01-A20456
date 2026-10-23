@@ -10,7 +10,7 @@ Ferramentas: Pentaho Data Integration (Spoon) 10.2 e PostgreSQL 17.
 Base de dados: `tenis_tp1`, no servidor local, porta 5432, utilizador `postgres`.
 
 Repositório: https://github.com/TelmoSilva20456/tp01-A20456  
-Vídeo da demonstração: https://drive.google.com/file/d/1IJxirmKLc368iiJz2su6Sw3fbWsrXbHI/view?usp=drivesdk
+Vídeo da demonstração: https://drive.google.com/file/d/1STjqyctK8NFt9AoU2TPOWDmqwdiApGKl/view
 
 ## Ficheiros
 
